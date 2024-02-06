@@ -3,7 +3,7 @@
 .body{
     /*display: inline-block; */
     margin-right: auto; 
-    max-width: 350px; /* Set the maximum width for the text container */
+    width: 350px; /* Set the maximum width for the text container */
     display: inline-block; 
     margin-left: auto; 
     text-align: center;
