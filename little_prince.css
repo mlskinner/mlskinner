@@ -1,7 +1,7 @@
 
 
 .body{
-    display: inline-block; 
+    /*display: inline-block; */
     margin-right: auto; 
     max-width: 350px; /* Set the maximum width for the text container */
     display: inline-block; 
