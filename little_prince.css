@@ -6,6 +6,7 @@
     max-width: 350px; /* Set the maximum width for the text container */
     display: inline-block; 
     margin-left: auto; 
+    text-align: left;
 
     .highlight-text{
         background: orange;
