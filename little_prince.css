@@ -2,10 +2,10 @@
 
 .body{
     display: inline-block; 
-    margin-right: 10px; 
+    margin-right: auto; 
     max-width: 350px; /* Set the maximum width for the text container */
     display: inline-block; 
-    margin-right: 10px; 
+    margin-left: auto; 
 
     .highlight-text{
         background: orange;
