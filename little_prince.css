@@ -1,11 +1,9 @@
 
 
 .body{
-    /*display: inline-block; */
+    margin-left: auto;
     margin-right: auto; 
     width: 350px; /* Set the maximum width for the text container */
-    display: inline-block; 
-    margin-left: auto; 
     text-align: left;
 
     .highlight-text{
